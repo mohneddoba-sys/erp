@@ -1,0 +1,15 @@
+{
+  "name": "alwan-alhayat-system",
+  "version": "1.0.0",
+  "description": "نظام ألوان الحياة للديكور — عملاء، عروض أسعار، مخزون، مشتريات، تحصيل، مصروفات وتقارير",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "license": "UNLICENSED",
+  "private": true
+}
